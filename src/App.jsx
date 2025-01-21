@@ -10,7 +10,7 @@ function App() {
   };
 
   return (
-    <div className='text-white font-bold text-4xl mt-64 rounded-lg bg-cover bg-center' style={{
+    <div className='text-white font-bold text-4xl mt-64  rounded-lg bg-cover bg-center' style={{
       backgroundImage: 'url("image.png")',
       backgroundRepeat: 'no-repeat',
       backgroundSize: 'cover',
